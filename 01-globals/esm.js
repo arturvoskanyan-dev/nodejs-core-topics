@@ -1,0 +1,1 @@
+export const arr = ["Joe", "Mike", "Karapet"];
