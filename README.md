@@ -1,8 +1,8 @@
 1. Globals
 2. Modules
 3. Path
-4. Buffer 
-5. fs
+4. fs 
+5. Buffer
 6. Streams
 7. Events
 8. Timers
